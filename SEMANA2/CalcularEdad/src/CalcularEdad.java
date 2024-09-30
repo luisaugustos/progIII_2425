@@ -13,6 +13,5 @@ public class CalcularEdad {
         System.out.printf("Su edad es: %d años.\n", edad);
 
         scannerRef.close();
-
     }
 }
