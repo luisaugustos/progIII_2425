@@ -1,18 +1,3 @@
-## Getting Started
+## Ejercicio 01
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Deberás crear una clase *Person.java* con atributos nombre altura y peso, sus correspondientes getters y setters. En el método main deberás instanciar 3 objetos de dicha clase y completar su información solicitándola al usuario por consola para cada objeto. Finalmente, deberás mostrar por consola quién es el más alto y quién es el que más pesa. Deberás utilizar siempre los getters y setters para obtener la información y establecerla en cada instancia de cada objeto.
